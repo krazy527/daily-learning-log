@@ -1,3 +1,3 @@
-# Data Science
+# Artificial Intelligence
 
-This is an experimental project on Data Science.
+This is an experimental project on Artificial Intelligence.
