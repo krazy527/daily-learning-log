@@ -1,3 +1,3 @@
-# Blockchain
+# Quantum Computing
 
-This is an experimental project on Blockchain.
+This is an experimental project on Quantum Computing.
