@@ -1,3 +1,3 @@
-# Quantum Computing
+# Artificial Intelligence
 
-This is an experimental project on Quantum Computing.
+This is an experimental project on Artificial Intelligence.
