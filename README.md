@@ -1,3 +1,3 @@
-# Artificial Intelligence
+# HTML & CSS
 
-This is an experimental project on Artificial Intelligence.
+This is an experimental project on HTML & CSS.
