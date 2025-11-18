@@ -1,3 +1,3 @@
-# React
+# HTML & CSS
 
-This is an experimental project on React.
+This is an experimental project on HTML & CSS.
