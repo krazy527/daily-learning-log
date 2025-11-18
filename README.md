@@ -1,3 +1,3 @@
-# HTML & CSS
+# Bootstrap
 
-This is an experimental project on HTML & CSS.
+This is an experimental project on Bootstrap.
