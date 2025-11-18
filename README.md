@@ -1,3 +1,3 @@
-# Automation Testing
+# AWS
 
-This is an experimental project on Automation Testing.
+This is an experimental project on AWS.
