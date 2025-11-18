@@ -1,3 +1,3 @@
-# Bootstrap
+# Automation Testing
 
-This is an experimental project on Bootstrap.
+This is an experimental project on Automation Testing.
