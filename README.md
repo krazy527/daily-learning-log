@@ -1,3 +1,3 @@
-# Linux Commands
+# Axios
 
-This is an experimental project on Linux Commands.
+This is an experimental project on Axios.
