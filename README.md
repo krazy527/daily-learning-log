@@ -1,3 +1,3 @@
-# Axios
+# Vite
 
-This is an experimental project on Axios.
+This is an experimental project on Vite.
