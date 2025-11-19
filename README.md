@@ -1,3 +1,3 @@
-# Vite
+# MySQL
 
-This is an experimental project on Vite.
+This is an experimental project on MySQL.
