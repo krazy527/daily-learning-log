@@ -1,3 +1,3 @@
-# Material UI
+# React Native
 
-This is an experimental project on Material UI.
+This is an experimental project on React Native.
