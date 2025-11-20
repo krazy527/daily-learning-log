@@ -1,3 +1,3 @@
-# Zustand
+# Git
 
-This is an experimental project on Zustand.
+This is an experimental project on Git.
