@@ -1,3 +1,3 @@
-# Git
+# Material UI
 
-This is an experimental project on Git.
+This is an experimental project on Material UI.
