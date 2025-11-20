@@ -1,3 +1,3 @@
-# MySQL
+# Zustand
 
-This is an experimental project on MySQL.
+This is an experimental project on Zustand.
