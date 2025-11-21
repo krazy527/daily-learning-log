@@ -1,3 +1,3 @@
-# React Native
+# Git
 
-This is an experimental project on React Native.
+This is an experimental project on Git.
