@@ -1,3 +1,3 @@
-# Mocha
+# JavaScript
 
-This is an experimental project on Mocha.
+This is an experimental project on JavaScript.
