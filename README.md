@@ -1,3 +1,3 @@
-# Selenium
+# WebSockets
 
-This is an experimental project on Selenium.
+This is an experimental project on WebSockets.
