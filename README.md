@@ -1,3 +1,3 @@
-# Web Security Basics
+# Automation Testing
 
-This is an experimental project on Web Security Basics.
+This is an experimental project on Automation Testing.
